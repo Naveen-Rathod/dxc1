@@ -1,2 +1,3 @@
-# dxc1
-my 1st demo
+x=10
+y=20
+print(x+y)
